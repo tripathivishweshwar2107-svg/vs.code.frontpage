@@ -10,3 +10,58 @@ body {
   padding-left: 10px;
   cursor: pointer;
 }
+
+.hell {
+  color: white;
+}
+
+.nov {
+  color: white;
+  font-size: 40px;
+}
+
+.boot {
+  background-color: blue;
+  font-size: 25px;
+  margin-top: 20px;
+  box-sizing: 30px;
+  height: 60px;
+  border-radius: 20px;
+  border-style: hidden;
+  color: white;
+  cursor: pointer;
+}
+
+.up {
+  background-color: blue;
+  border-radius: 15px;
+  border-style: hidden;
+  color: white;
+  box-sizing: 25px;
+  cursor: pointer;
+}
+
+.nev {
+  color: white;
+  padding-top: 10px;
+}
+
+.ev {
+  padding-top: 10px;
+}
+
+.top {
+  padding-left: 120px;
+  padding-top: 50px;
+}
+
+.bott {
+  width: 800;
+  padding-right: 120px;
+  padding-top: 50px;
+}
+
+.vi {
+  display: flex;
+  justify-content: space-between;
+}
